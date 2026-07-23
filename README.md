@@ -1,2 +1,2 @@
 # CareLink
-Plataforma de monitoramento e assistência que integra uma pulseira inteligente ao sistema CareLink, oferecendo localização e acompanhamento em tempo real para ampliar a segurança e a autonomia de pessoas que precisam de cuidados.
+A monitoring and assistance platform that integrates a smart wristband with the CareLink system, offering location tracking and real-time monitoring to enhance the safety of individuals requiring care.
